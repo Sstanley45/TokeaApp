@@ -35,6 +35,3 @@ React Routes: I have implemented React Routes to enable navigation between diffe
 useParams Hook: I have utilized the useParams hook to extract parameters from the URL and dynamically retrieve data for a specific event page.
 
 By working on this project, I have improved my skills in ReactJS development, learned how to manage application state using Context API, implemented navigation using React Routes, and leveraged the useParams hook for dynamic content retrieval.
-
-# OnGoing..
-I will eventually add a login functionality with an OTP system to allow users login to view their tickets.
